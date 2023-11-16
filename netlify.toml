@@ -4,6 +4,7 @@
 
 [build.environment]
   NETLIFY_NEXT_PLUGIN_SKIP = "true"
+  NODE_VERSION = "16.20.2"
 
 [[plugins]]
   package = "netlify-plugin-cache"
