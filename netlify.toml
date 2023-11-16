@@ -1,7 +1,7 @@
 [build]
-  base    = "/"
-  publish = "build"
-  command = "npm run build"
+  base = "/opt/build/repo"
+  command = "yarn build"
+  publish = "/opt/build/repo/.next"
 
 [build.environment]
   NODE_VERSION = "16.20.2"
