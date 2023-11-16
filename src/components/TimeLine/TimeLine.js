@@ -44,7 +44,7 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About Me</SectionTitle>
+      <SectionTitle>Sobre</SectionTitle>
       <SectionText>
       Explore meu portfólio para descobrir projetos que não apenas demonstram minhas habilidades técnicas, mas também refletem minha abordagem criativa e orientada para resultados.
       </SectionText>
